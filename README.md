@@ -6,7 +6,7 @@ Each `.overgrowpack` in this repository is a complete desktop scene: palette, we
 
 ## Browse & install
 
-1. Open the [gallery discussion](#待填：Discussions 链接) or the list below.
+1. Open the [gallery discussion](https://github.com/LoxoTechIO/OverGrow-Theme/discussions/categories/theme-gallery) or the list below.
 2. Download the `.overgrowpack` file you like.
 3. Double-click it (or drag it onto OverGrow's settings window). Done — it appears in Settings → Worlds.
 
@@ -27,9 +27,9 @@ Requirements, in short:
 
 ## Discuss
 
-- [Show your desktop](#待填：Discussions 链接) — screenshots of your setup, any theme
-- [Ideas](#待填：Discussions 链接) — features, worlds, this repository
-- [Help](#待填：Discussions 链接) — install problems, validation errors
+- [Show your desktop](https://github.com/LoxoTechIO/OverGrow-Theme/discussions/categories/show-your-desktop) — screenshots of your setup, any theme
+- [Ideas](https://github.com/LoxoTechIO/OverGrow-Theme/discussions/categories/ideas) — features, worlds, this repository
+- [Help](https://github.com/LoxoTechIO/OverGrow-Theme/discussions/categories/q-a) — install problems, validation errors
 
 Be decent. This is a small, slow corner of the internet and we'd like to keep it that way.
 
