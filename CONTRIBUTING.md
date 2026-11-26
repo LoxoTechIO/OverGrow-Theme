@@ -26,7 +26,8 @@ swift run biomecheck /path/to/你的包目录
 
 | 类别 | 可用 id |
 |---|---|
-| 边缘元素 `layers[].element` | `blade` 草丛 · `bamboo` 竹 · `vine` 藤 · `moss` 苔 · `sakura` 樱枝 · `frost` 霜 · `cloudWisp` 低云 · `paw` 爪垫 · `firefly` 萤火 |
+| 边缘元素 `layers[].element` | `blade` 草丛 · `bamboo` 竹 · `vine` 藤 · `moss` 苔 · `sakura` 樱枝 · `frost` 霜 · `cloudWisp` 低云 · `paw` 爪垫 · `firefly` 萤火 · `crystal` 水晶簇 · `thorn` 荆棘 · `wave` 浪花 |
+| 休息页搭子 `rest.buddy` | `ember.flame` 火苗精 · `rune.sprite` 符文精灵 · `sea.gull` 海鸥 · `moss.mushroom` 蘑菇 · `snow.snowman` 小雪人 · `sakura.butterfly` 蝴蝶 · `cloud.cloudlet` 小云朵 · `bamboo.frog` 青蛙 · `cat.sleep` 猫 · `droid.idle` 机器人 |
 | 地面堆积 `layers[].pile` | `grassTuft` 草垫 · `snow` 积雪 · `mossCushion` 苔垫 · `wetMoss` 湿苔 · `petalCarpet` 落花 · `cloudPuff` 云絮 · `pawPrint` 爪印 |
 | 空气粒子 `layers[].ambient` | `snow` 雪 · `rain` 雨 · `petal` 花瓣 · `leaf` 落叶 · `dandelion` 蒲公英絮 · `pollen` 花粉光尘 · `firefly` 萤火 |
 | 休息页粒子 `rest.ambient` | `snow` `petal` `leaf` `pollen` `firefly` `none` |

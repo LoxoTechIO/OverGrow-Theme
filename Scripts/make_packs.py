@@ -43,8 +43,8 @@ THEMES = [
             "budget": {"maxActors": 0, "maxAssetMB": 0},
             "actors": [], "motions": [], "assets": [],
             "layers": [
-                {"type": "slot", "slot": "edge", "element": "blade",
-                 "pile": "grassTuft", "ambient": "firefly"},
+                {"type": "slot", "slot": "edge", "element": "thorn",
+                 "ambient": "firefly"},
                 {"type": "vignette", "strength": 0.62},
             ],
             "palette": {
@@ -60,6 +60,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["0e0c14", "3a1f1a"], "horizon": "mountain",
+                "buddy": "ember.flame",
                 "ambient": "firefly",
                 "focusCopy": "抬眼 · 火光照不到的地方才是远方",
                 "doneCopy": "草退了，火堆 +1",
@@ -84,8 +85,8 @@ THEMES = [
             "budget": {"maxActors": 0, "maxAssetMB": 0},
             "actors": [], "motions": [], "assets": [],
             "layers": [
-                {"type": "slot", "slot": "edge", "element": "blade",
-                 "pile": "grassTuft", "ambient": "firefly"},
+                {"type": "slot", "slot": "edge", "element": "crystal",
+                 "ambient": "firefly"},
                 {"type": "vignette", "strength": 0.58},
             ],
             "palette": {
@@ -101,6 +102,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["0a1220", "1c3050"], "horizon": "mountain",
+                "buddy": "rune.sprite",
                 "ambient": "firefly",
                 "focusCopy": "离开战场 20 秒 · 水晶不会自己掉",
                 "doneCopy": "草退了，回城 +1",
@@ -125,8 +127,8 @@ THEMES = [
             "budget": {"maxActors": 0, "maxAssetMB": 0},
             "actors": [], "motions": [], "assets": [],
             "layers": [
-                {"type": "slot", "slot": "edge", "element": "blade",
-                 "pile": "grassTuft", "ambient": "pollen"},
+                {"type": "slot", "slot": "edge", "element": "wave",
+                 "ambient": "pollen"},
                 {"type": "vignette", "strength": 0.4},
             ],
             "palette": {
@@ -142,6 +144,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["2a5a8a", "f2d9a8"], "horizon": "field",
+                "buddy": "sea.gull",
                 "ambient": "pollen",
                 "focusCopy": "望向 20 英尺外的海 · 船不会跑",
                 "doneCopy": "草退了，航行 +1 海里",
@@ -183,6 +186,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["9ec8b0", "f2f7ee"], "horizon": "field",
+                "buddy": "moss.mushroom",
                 "ambient": "pollen",
                 "focusCopy": "看远一点 · 让眼睛也晒晒树荫",
                 "doneCopy": "草退了，林间 +1 口深呼吸",
@@ -224,6 +228,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["2e3d52", "e8eef4"], "horizon": "mountain",
+                "buddy": "snow.snowman",
                 "ambient": "snow",
                 "focusCopy": "雪停之前，看一眼远处",
                 "doneCopy": "草退了，炉火 +1",
@@ -264,6 +269,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["3a2c44", "f2dce6"], "horizon": "mountain",
+                "buddy": "sakura.butterfly",
                 "ambient": "petal",
                 "focusCopy": "抬头 · 花落下来的方向",
                 "doneCopy": "草退了，花枝 +1",
@@ -304,6 +310,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["6a9ec8", "f4f8fc"], "horizon": "field",
+                "buddy": "cloud.cloudlet",
                 "ambient": "none",
                 "focusCopy": "看云去 · 最远的那一朵",
                 "doneCopy": "草退了，晴空 +1",
@@ -344,6 +351,7 @@ THEMES = [
             },
             "rest": {
                 "backdrop": ["42566a", "dde8e2"], "horizon": "field",
+                "buddy": "bamboo.frog",
                 "ambient": "none",
                 "focusCopy": "听一次雨 · 看一次远处",
                 "doneCopy": "草退了，檐下 +1 场雨",
