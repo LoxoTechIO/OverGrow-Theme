@@ -14,14 +14,26 @@ You can preview any world for 5 minutes before deciding. Themes from the gallery
 
 ## Current themes
 
-| Theme | Preview | File |
-|---|---|---|
-| 暮草 Dusk Meadow — 日落前的草尖被镀了一层金 | [preview](themes/previews/dusk-meadow.png) | [dusk-meadow.overgrowpack](themes/dusk-meadow.overgrowpack) |
-| 雨檐 Rain Eaves — 檐下听雨，草色被洗得发青 | [preview](themes/previews/rain-eaves.png) | [rain-eaves.overgrowpack](themes/rain-eaves.overgrowpack) |
-| 薄荷晨 Mint Morning — 清晨的凉意，薄荷色的光 | [preview](themes/previews/mint-morning.png) | [mint-morning.overgrowpack](themes/mint-morning.overgrowpack) |
+| Theme | Mood | Preview | File |
+|---|---|---|---|
+| 烬烛 Ember Crypt | 暗黑游戏风 — 地牢边缘的枯草间，烬火聚拢 | [preview](themes/previews/ember-crypt.png) | [ember-crypt.overgrowpack](themes/ember-crypt.overgrowpack) |
+| 峡谷夜巡 Rift Night | MOBA 致敬 · 原创 — 夜巡草丛，符文萤光 | [preview](themes/previews/rift-night.png) | [rift-night.overgrowpack](themes/rift-night.overgrowpack) |
+| 伟大航路 Grand Voyage | 大航海致敬 · 原创 — 日落金洒在桅杆，海平线是望远的理由 | [preview](themes/previews/grand-voyage.png) | [grand-voyage.overgrowpack](themes/grand-voyage.overgrowpack) |
+| 苔径 Moss Path | 森系治愈 — 苔藓漫上桌沿，藤蔓垂下，光斑浮动 | [preview](themes/previews/moss-path.png) | [moss-path.overgrowpack](themes/moss-path.overgrowpack) |
+| 初雪 First Snow | 雪夜 — 霜沿屏幕结晶，雪在桌沿堆起 | [preview](themes/previews/first-snow.png) | [first-snow.overgrowpack](themes/first-snow.overgrowpack) |
+| 夜樱 Sakura Night | 夜樱 — 樱枝压低，花瓣落满桌沿 | [preview](themes/previews/sakura-night.png) | [sakura-night.overgrowpack](themes/sakura-night.overgrowpack) |
+| 云眠 Cloud Nap | 云海 — 低云贴着桌沿浮过 | [preview](themes/previews/cloud-nap.png) | [cloud-nap.overgrowpack](themes/cloud-nap.overgrowpack) |
+| 竹雨 Bamboo Rain | 竹林雨声 — 竹节长出来，湿苔爬上侧壁 | [preview](themes/previews/bamboo-rain.png) | [bamboo-rain.overgrowpack](themes/bamboo-rain.overgrowpack) |
+| 暮草 Dusk Meadow | 日落 — 草尖被镀了一层金 | [preview](themes/previews/dusk-meadow.png) | [dusk-meadow.overgrowpack](themes/dusk-meadow.overgrowpack) |
+| 雨檐 Rain Eaves | 雨 — 檐下听雨，草色被洗得发青 | [preview](themes/previews/rain-eaves.png) | [rain-eaves.overgrowpack](themes/rain-eaves.overgrowpack) |
+| 薄荷晨 Mint Morning | 清晨 — 薄荷色的光从边缘渗进来 | [preview](themes/previews/mint-morning.png) | [mint-morning.overgrowpack](themes/mint-morning.overgrowpack) |
 
 Official starter packs by [@LoxoTechIO](https://github.com/LoxoTechIO) — they double as
 copy-paste templates if you want to make your own (see [CONTRIBUTING](CONTRIBUTING.md)).
+
+> IP note: 峡谷夜巡 / 伟大航路 are original themes *inspired by* MOBA and seafaring-adventure
+> vibes. They contain no characters, names, logos or assets from any game or manga —
+> submissions based on real IPs (王者荣耀、海贼王 etc.) can't be accepted for licensing reasons.
 
 ## Submit your world
 
