@@ -12,6 +12,17 @@ Each `.overgrowpack` in this repository is a complete desktop scene: palette, we
 
 You can preview any world for 5 minutes before deciding. Themes from the gallery are community-made and licensed by their authors (see each theme's post).
 
+## Current themes
+
+| Theme | Preview | File |
+|---|---|---|
+| 暮草 Dusk Meadow — 日落前的草尖被镀了一层金 | [preview](themes/previews/dusk-meadow.png) | [dusk-meadow.overgrowpack](themes/dusk-meadow.overgrowpack) |
+| 雨檐 Rain Eaves — 檐下听雨，草色被洗得发青 | [preview](themes/previews/rain-eaves.png) | [rain-eaves.overgrowpack](themes/rain-eaves.overgrowpack) |
+| 薄荷晨 Mint Morning — 清晨的凉意，薄荷色的光 | [preview](themes/previews/mint-morning.png) | [mint-morning.overgrowpack](themes/mint-morning.overgrowpack) |
+
+Official starter packs by [@LoxoTechIO](https://github.com/LoxoTechIO) — they double as
+copy-paste templates if you want to make your own (see [CONTRIBUTING](CONTRIBUTING.md)).
+
 ## Submit your world
 
 We review submissions continuously. Picked themes get permanent credit in this repository and a free copy of OverGrow.
