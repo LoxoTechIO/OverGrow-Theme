@@ -7,7 +7,12 @@
 1. Fork 本仓库，在 `themes/` 放入你的 `你的主题名.overgrowpack`（zip 格式，内含 `theme.json`）
 2. 在 `themes/previews/` 放一张至少 1600px 宽的预览图（文件名对应）
 3. [开一个 Issue](https://github.com/LoxoTechIO/OverGrow-Theme/issues/new/choose)，附一句话介绍 + 预览图
-4. 通过 App 内置校验后合入，你的名字会出现在下面的主题列表里
+
+```
+/Users/zhangbo/Develop/ai/overgrow-site
+```
+
+1. 通过 App 内置校验后合入，你的名字会出现在下面的主题列表里
 
 ## 本地自查（发布前必做）
 
@@ -47,7 +52,7 @@ swift run biomecheck /path/to/你的包目录
 }
 ```
 
-进阶：`actors`（角色）、`motions`（动画）、`bubbles`（台词）、`tokens`（设计令牌）
+进阶：`actors`（角色）、`motions`（动画）、`bubbles`（台词）、`tokens`（设计令牌）  
 都是可选字段——完整说明见主工程 [docs/THEME-PACK.md](https://github.com/LoxoTechIO/overgrow/blob/main/docs/THEME-PACK.md)。
 
 ## 规矩
